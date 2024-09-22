@@ -1,12 +1,17 @@
 # Temperature-and-Humidity-Monitoring-System
 Arduino Uno
-Components Required
+
+
+
+Components Required:
 Arduino Uno (or any compatible board)
 DHT11 Temperature and Humidity Sensor
 16x2 LCD Display
 10kΩ Potentiometer (for LCD contrast adjustment)
 Breadboard and Jumper Wires
-Circuit Diagram
+
+
+Circuit Diagram:
 DHT11 Connections:
 
 VCC → 5V (Arduino)
